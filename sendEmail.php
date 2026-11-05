@@ -23,9 +23,9 @@ $message_html = '<html>
                 <table border="0" cellpadding="20" cellspacing="0" width="100%" style="font-family: Helvetica, Arial, sans-serif; color: #6A6C82; font-size: 14px; border: 1px solid #E6E6EA; border-radius: 2px; padding: 50px; margin: 30px auto; max-width: 600px;">
                     <tr>
                         <td align="center" style="padding: 0;">
-                            <h1 style="font-size: 48px; color: #000; margin: 0;">🍊</h1>
+                            <h1 style="font-size: 38px; color: #000; margin: 0 0 5px 0;">🍊</h1>
                             <h2 style="font-size: 13px; font-weight: bold; color: #B4B5C0; text-transform: uppercase; margin: 5px 0 0 0;">What\'s New in your portfolio</h2>
-                            <h3 style="font-size: 22px; font-weight: bold; margin: 15px 0 40px 0; color: #383B58;">Nouvelle notification de ' . $name . '</h3>
+                            <h3 style="font-size: 22px; font-weight: bold; margin: 5px 0 40px 0; color: #383B58;">Nouvelle notification de ' . $name . '</h3>
                         </td>
                     </tr>
                     <tr>
